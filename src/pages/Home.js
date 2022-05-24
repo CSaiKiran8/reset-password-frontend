@@ -34,7 +34,7 @@ const Button = styled.div`
       rgba(255, 255, 255, 0.5),
       rgba(255, 255, 255, 0.5)
     ),
-    url("https://blog.darwinbox.com/hubfs/Blog%20Image-2.png")
+    url("https://png.pngtree.com/background/20210714/original/pngtree-welcome-back-to-school-background-picture-image_1207865.jpg")
       center;
   background-size: cover;
   display: flex;

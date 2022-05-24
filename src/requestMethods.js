@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://auth-demo-mern.herokuapp.com/api/auth";
+const BASE_URL = "https://resetpassword-backend.herokuapp.com/api/auth";
 
 // const TOKEN =
 //   JSON.parse(JSON.parse(localStorage.getItem("persist:root")).user).currentUser
